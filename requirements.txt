@@ -1,0 +1,5 @@
+matplotlib==3.9.4
+mplfinance==0.12.10b0
+numpy==2.0.2
+pandas==2.2.3
+
